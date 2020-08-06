@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on my last year college project
 - 🌱 I’m currently learning javascript 
-- 👯 I’m looking to collaborate on JavaScript Project
-- 🤔 I’m looking for help with Java Script and React
+- 👯 I’m looking to collaborate on Java Project
+- 🤔 I’m looking for help with Java Data Structure and Algorithm
 - 💬 Ask me about Java and Php Web Development | Data Structure | Algorithm
 - 📫 How to reach me: [Twitter - @iirfanansarii](https://twitter.com/iirfanansarii) , [LinkedIn - @iirfanansarii](https://www.linkedin.com/in/iirfanansarii/) 
 - 😄 Pronouns: He/His
