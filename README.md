@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on my last year college project
+- 🔭 I’m currently working on a java springboot project related to student.  .
 - 🌱 I’m currently learning more about spring boot project 
 - 👯 I’m looking to collaborate on Java Project
 - 🤔 I’m looking for help with Java Data Structure and Algorithm
