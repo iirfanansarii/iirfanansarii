@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a MEAN Stack Web Development. 
+- 🔭 I’m currently working on  MEAN Stack Web Development. 
 - 🌱 I’m currently learning more about Javascript.
 - 👯 I’m looking to collaborate on javascript project
 - 🤔 I’m looking for help with MEAN and MERN Stack Web Development.
