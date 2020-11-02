@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on  MEAN Stack Web Development. 
 - 🌱 I’m currently learning more about Javascript.
 - 👯 I’m looking to collaborate on javascript project
-- 🤔 I’m looking for help with MEAN and MERN Stack Web Development.
-- 💬 Ask me about Java and Php Web Development | Data Structure | Algorithm
+- 🤔 I’m looking for job on  MEAN  Web Development.
+- 💬 Ask me about MEAN stack Web Development | Data Structure | Algorithm
 - 📫 How to reach me: [Twitter - @iirfanansarii](https://twitter.com/iirfanansarii) , [LinkedIn - @iirfanansarii](https://www.linkedin.com/in/iirfanansarii/) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Sleep When I Get Bore 😂
