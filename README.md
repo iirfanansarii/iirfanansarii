@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I write api using node js,express js and I create table using mysql and i use mysqlworkbench tool. 
-- 🌱 I’m currently learning react,redux,next js and mongo DB.
+- 🔭 I write api using node js,express js and I create table using mysql.I use mysqlworkbench tool. 
+- 🌱 I’m currently learning react js,redux,next js and mongo DB.
 - 🤔 I’m looking for a job on MERN stack development where i can work on frontend and backend both.
 - 💬 Ask me about javascript, node js, express js, mysql, html,css,bootstrap,Git & Github .
 - 📫 How to reach me: [Twitter - @iirfanansarii](https://twitter.com/iirfanansarii) , [LinkedIn - @iirfanansarii](https://www.linkedin.com/in/iirfanansarii/) 
