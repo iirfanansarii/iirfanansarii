@@ -5,7 +5,7 @@
 
 - 🔭 I write api using Node.js,Express.js and for database i use mysql and mysql workbench tool. 
 - 🌱 I’m currently learning React.js,Redux,Next.js and Mongo DB.
-- 🤔 I’m looking for a job on MERN stack development where i can work on frontend and backend both.
+- 🤔 I’m looking for a job on MERN stack where i can work on frontend and backend both.
 - 💬 Ask me about JavaScript, Node.js, Express.js, MySQL, Html,CSS,Bootstrap, Git & Github.
 - 📫 How to reach me: [Twitter - @iirfanansarii](https://twitter.com/iirfanansarii) , [LinkedIn - @iirfanansarii](https://www.linkedin.com/in/iirfanansarii/) 
 - 😄 Pronouns: He/His
