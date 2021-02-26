@@ -1,12 +1,12 @@
-###  Hi there, I'm Irfan Ansari !
+###  Hey, I'm Irfan Ansari
+### I'm a junior web developer at allentics 
 
 
 
-- 🔭 I’m currently working on  MEAN Stack Web Development. 
-- 🌱 I’m currently learning more about Javascript.
-- 👯 I’m looking to collaborate on javascript project
-- 🤔 I’m looking for job on  MEAN stack Web Development.
-- 💬 Ask me about MEAN stack Web Development | Data Structure | Algorithm
+- 🔭 I write api using node js,express js and I create table using mysql and i use mysqlworkbench tool. 
+- 🌱 I’m currently learning react,redux,next js and mongo DB.
+- 🤔 I’m looking for a job on MERN stack development where i can work on frontend and backend both.
+- 💬 Ask me about javascript, node js, express js, mysql, html,css,bootstrap,Git & Github .
 - 📫 How to reach me: [Twitter - @iirfanansarii](https://twitter.com/iirfanansarii) , [LinkedIn - @iirfanansarii](https://www.linkedin.com/in/iirfanansarii/) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Sleep When I Get Bore 😂
