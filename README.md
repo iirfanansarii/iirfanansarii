@@ -1,5 +1,5 @@
 ###  Hey, I'm Irfan Ansari
-### I'm a junior web developer at allentics 
+### I'm a junior web developer @[allentics](https://allentics.com/)
 
 
 
