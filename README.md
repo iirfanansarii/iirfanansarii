@@ -4,7 +4,7 @@
 
 
 - 🔭 I write api using Node.js,Express.js and for database i use mysql and mysql workbench tool. 
-- 🌱 I’m currently learning React.js,Redux,and Mongo DB while making flipcart clone.
+- 🌱 I’m currently learning React.js,Redux,and Mongo DB .
 - 💬 Ask me about JavaScript, Node.js, Express.js, MySQL, Html,CSS,Bootstrap, Git & Github.
 - 📫 How to reach me: [Twitter - @iirfanansarii](https://twitter.com/iirfanansarii) , [LinkedIn - @iirfanansarii](https://www.linkedin.com/in/iirfanansarii/) 
 - 😄 Pronouns: He/His
