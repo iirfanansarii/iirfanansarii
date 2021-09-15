@@ -1,4 +1,4 @@
-###  Hey, I'm Irfan Ansari
+###  Hi there, I'm Irfan Ansari
 ### I'm a software developer @[allentics](https://allentics.com/)
 
 
