@@ -1,6 +1,5 @@
 ###  Hi there, I'm Irfan Ansari
-### I'm a software developer 
-<!-- @[allentics](https://allentics.com/) -->
+### I'm UI Engineer @[Blueconchtech](https://www.blueconchtech.com/)
 
 
 - My specialties:
