@@ -1,5 +1,5 @@
 ###  Hi there, I'm Irfan Ansari
-### I'm UI Engineer @[UST Blueconch Technology](https://www.blueconchtech.com/)
+### I'm an UI Engineer @[UST Blueconch Technology](https://www.blueconchtech.com/)
 
 
 - My specialties:
